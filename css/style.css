@@ -1,0 +1,74 @@
+h1{
+  text-align: center;
+  color: white;
+  font-family: verdana;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h3{
+  color: white;
+  text-align: center;
+  font-family: verdana;
+}
+
+p{
+  color: gray;
+  font-family: verdana;
+  font-size: 21px;
+}
+
+#descrip{
+  text-align: center;
+
+}
+
+#header_{
+  font-weight: 300;
+  font-size: 42px;
+  font-family: verdana;
+  text-align: center;
+}
+
+a{
+  text-align: center;
+  color: aquamarine;
+  font-size: 16px;
+  font-family: verdana;
+}
+#link1{
+text-align: center;
+}
+
+#link2{
+
+  text-align: center;
+}
+
+body{
+  background-color: black;
+}
+
+#center{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#camp{
+  text-align: center;
+}
+
+#phone{
+text-align: center;
+
+}
+
+
+
+
+
+#footer{
+  text-align: right;
+  font-family: verdana;
+}
